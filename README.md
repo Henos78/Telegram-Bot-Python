@@ -14,10 +14,13 @@ For this bot we will be using the  pyTelegramBotAPI library. It is a simple but 
 Install the pyTelegramBotAPI library using pip: (I am using macOs)
 `pip3 install pyTelegramBotAPI`
 create a .env file to store your token as below:
+
 `export BOT_TOKEN=your-bot-token-here`
+
 Run the source .env command to read the environment variables from the .env file.
 
 Make sure to install the requests library for data scraping for the util.py file:
+
 `pip3 install requests`
 
 Feel free to make any new adjustments or modifications, hope you liked it, Cheers!
